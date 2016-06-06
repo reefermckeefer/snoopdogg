@@ -85,33 +85,27 @@ body
 	body { text-rendering:auto; }
 }
 
-a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 a:link
 {
-	color: #35AAE7;
+	color: #0000FF;
 	text-decoration: underline;
 }
 
 a:visited
 {
-	color: #3538E7;
+	color: #800080;
 	text-decoration: underline;
 }
 
 a:hover
 {
-	color: #35E75E;
+	color: #0000FF;
 	text-decoration: underline;
 }
 
 a:active
 {
-	color: #FF0303;
+	color: #EE0000;
 	text-decoration: underline;
 }
 
